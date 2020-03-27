@@ -1,0 +1,20 @@
+{
+  "InterfaceProject": null,
+  "InterfaceName": "RConnGeotabGPS",
+  "InterfaceTransactionId": null,
+  "Description": null,
+  "BlobName": "RConnGeotabGPS_0963871b-96d3-4c39-88a2-3d28907518d3.json",
+  "BlobUrl": "rhub-rconn-inbound/RConnGeotabGPS_0963871b-96d3-4c39-88a2-3d28907518d3.json",
+  "BlobUri": "https://pocryderstorage.blob.core.windows.net/rhub-rconn-inbound/RConnGeotabGPS_0963871b-96d3-4c39-88a2-3d28907518d3.json",
+  "MetaData": {
+    "company": "RyderLMS",
+    "scac": "Samplescac",
+    "provider": "TSP",
+    "source": "Geotab",
+    "RyderHub_InterfaceTransactionId": "0963871b-96d3-4c39-88a2-3d28907518d3",
+    "RyderHub_InterfaceName": "RConnGeotabGPS",
+    "RyderHub_InterfaceProject": "RConn"
+  },
+  "CustomProperties": null,
+  "CreatedDateTimeUTC": null
+}
